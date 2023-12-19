@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <title></title>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+    </head>
+    <body>
+        <div><h1>Olá [$tratamento] [$nome] [$sobrenome],</h1>
+            <h2>Venha conhecer o empreendimento que está revolucionando o conceito de moradia na cidade de [$cidade].</h2></div>
+            <strong><FONT COLOR="RED">N&Atilde;O PERCA</FONT> esta grande oportunidade de investimento</strong> e venha garantir sua unidade ainda hoje com condições inperdíveis na negociação da sua unidade<BR />
+            <P>
+            Venha ao nosso plantão de vendas na [$endereco] e procure pelo consultor [$nome_consultor] da imobiliária [$imobiliaria_consultor] ou ligue para [$tel_consultor] e agende sua visita.
+            </P>
+    </body>
+</html>
